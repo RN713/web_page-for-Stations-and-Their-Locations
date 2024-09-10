@@ -1,0 +1,181 @@
+[
+  {
+    "ContainingType": "Stations_.Controllers.AngStationController",
+    "Method": "DeleteStation",
+    "RelativePath": "api/AngStation/DeleteStation/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.AngStationController",
+    "Method": "GetStation",
+    "RelativePath": "api/AngStation/GetStation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.AngStationController",
+    "Method": "GetStation",
+    "RelativePath": "api/AngStation/GetStationById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.AngStationController",
+    "Method": "CreateStation",
+    "RelativePath": "api/AngStation/PostStation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stationDto",
+        "Type": "Stations_.Models.StationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.AngStationController",
+    "Method": "UpdateStation",
+    "RelativePath": "api/AngStation/UpdateStation/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "stationDto",
+        "Type": "Stations_.Models.StationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.StationsController",
+    "Method": "CreateStation",
+    "RelativePath": "api/Stations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stationDto",
+        "Type": "Stations_.Models.StationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.StationsController",
+    "Method": "GetStation",
+    "RelativePath": "api/Stations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.StationsController",
+    "Method": "GetStation",
+    "RelativePath": "api/Stations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.StationsController",
+    "Method": "UpdateStation",
+    "RelativePath": "api/Stations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "stationDto",
+        "Type": "Stations_.Models.StationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.StationsController",
+    "Method": "DeleteStation",
+    "RelativePath": "api/Stations/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stations_.Controllers.StationsForecastController",
+    "Method": "Get",
+    "RelativePath": "StationsForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Stations_.StationData, Stations_, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetStationsForecast"
+  }
+]

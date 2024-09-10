@@ -1,0 +1,68 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="app.component.css">
+  <title>Stations</title>
+</head>
+<body>
+  <header>
+    <h1>Stations</h1>
+  </header>
+  <app-my-component></app-my-component>
+  <app-map></app-map>
+  <div>
+    
+    <h2>Add a New Station</h2>
+    <form (ngSubmit)="PostStation()">
+      <label for="code">Code:</label>
+      <input type="text" id="code" [(ngModel)]="newStation.Code" name="code" required>
+
+      <label for="lat">Latitude:</label>
+      <input type="number" id="lat" [(ngModel)]="newStation.Lat" name="lat" required>
+
+      <label for="lon">Longitude:</label>
+      <input type="number" id="lon" [(ngModel)]="newStation.Lon" name="lon" required>
+
+      <label for="region">Region Name:</label>
+      <input type="text" id="region" [(ngModel)]="newStation.RegionName" name="region" required>
+
+      <button type="submit">Add Station</button>
+    </form>
+  </div>
+
+  <div>
+    <h2>Existing Stations</h2>
+    <div *ngFor="let item of Stations">
+      &diams; {{item.Code}} ({{item.Lat}}, {{item.Lon}}) - {{item.RegionName}}
+      <button (click)="GetStationById(item.Id)">View Details</button>
+      <button (click)="DeleteStation(item.Id)">Delete</button>
+    </div>
+  </div>
+
+  <div *ngIf="selectedStation">
+    <h2>Update Station</h2>
+    <form (ngSubmit)="UpdateStation()">
+      <label for="updateCode">Code:</label>
+      <input type="text" id="updateCode" [(ngModel)]="selectedStation.Code" name="updateCode" required>
+
+      <label for="updateLat">Latitude:</label>
+      <input type="number" id="updateLat" [(ngModel)]="selectedStation.Lat" name="updateLat" required>
+
+      <label for="updateLon">Longitude:</label>
+      <input type="number" id="updateLon" [(ngModel)]="selectedStation.Lon" name="updateLon" required>
+
+      <label for="updateRegion">Region Name:</label>
+      <input type="text" id="updateRegion" [(ngModel)]="selectedStation.RegionName" name="updateRegion" required>
+
+      <button type="submit">Update Station</button>
+    </form>
+  </div>
+
+  <footer>
+    <p>© Stations 2024. All rights reserved.</p>
+  </footer>
+</body>
+</html>

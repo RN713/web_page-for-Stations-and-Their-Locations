@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\controllers\\angstaioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\controllers\\angstaioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\models\\stationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\models\\stationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\stationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\stationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\stations_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\stations_.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|c:\\users\\rem12\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\angular_stations_\\stations_\\stations_\\models\\station_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE85A83-5DAC-419B-AE84-C5F75A67F533}|Stations_\\Stations_.csproj|solutionrelative:stations_\\models\\station_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Station_DB.cs",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Models\\Station_DB.cs",
+              "RelativeDocumentMoniker": "Stations_\\Models\\Station_DB.cs",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Models\\Station_DB.cs",
+              "RelativeToolTip": "Stations_\\Models\\Station_DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:54:16.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\appsettings.json",
+              "RelativeDocumentMoniker": "Stations_\\appsettings.json",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\appsettings.json",
+              "RelativeToolTip": "Stations_\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T06:34:07.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stations_.csproj",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Stations_.csproj",
+              "RelativeDocumentMoniker": "Stations_\\Stations_.csproj",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Stations_.csproj",
+              "RelativeToolTip": "Stations_\\Stations_.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T05:38:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AngStaionController.cs",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Controllers\\AngStaionController.cs",
+              "RelativeDocumentMoniker": "Stations_\\Controllers\\AngStaionController.cs",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Controllers\\AngStaionController.cs",
+              "RelativeToolTip": "Stations_\\Controllers\\AngStaionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:26:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Program.cs",
+              "RelativeDocumentMoniker": "Stations_\\Program.cs",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Program.cs",
+              "RelativeToolTip": "Stations_\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:40:48.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StationData.cs",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\StationData.cs",
+              "RelativeDocumentMoniker": "Stations_\\StationData.cs",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\StationData.cs",
+              "RelativeToolTip": "Stations_\\StationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:29:48.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationDto.cs",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Models\\StationDto.cs",
+              "RelativeDocumentMoniker": "Stations_\\Models\\StationDto.cs",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Models\\StationDto.cs",
+              "RelativeToolTip": "Stations_\\Models\\StationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:49:44.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Startup.cs",
+              "RelativeDocumentMoniker": "Stations_\\Startup.cs",
+              "ToolTip": "C:\\Users\\rem12\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\trining\\Angular_Stations_\\Stations_\\Stations_\\Startup.cs",
+              "RelativeToolTip": "Stations_\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:56:50.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
